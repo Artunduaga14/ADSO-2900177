@@ -151,3 +151,15 @@ Puedes crear una lista sin ordenar. Para ello, coloca <kbd>-</kbd>, <kbd>*</kbd>
 - George Washington
 * John Adams
 + Thomas Jefferson
+
+Para ordenar tu lista, antecede cada línea con un número.
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+```
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+   https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
