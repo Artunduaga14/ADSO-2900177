@@ -133,9 +133,9 @@ INICIO
    ESCRIBIR"Digite un numero "
    LEER N
 
-   si N > 0
+   si N > 0 Entonses
         ESCRIBIR"Elnumero es positivo "
-  sino
+  sino Entonses
         ESCRIBIR"Elnumero es negativo "
      fin si
 FIN
