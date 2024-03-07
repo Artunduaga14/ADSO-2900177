@@ -27,14 +27,12 @@ Inicio
     porsentaje2=(inversion2 / total)* 100
     porsentaje3=(inversion3 / total)* 100
 
-    ESCRIBIR"el promedio de la inversion de la primera pesona es  es "
-    LEER porsentaje1
+    ESCRIBIR"el promedio de la inversion de la primera pesona es ",porsentaje1
 
-    ESCRIBIR"el promedio de la inversion de la segunda pesona es  es "
-    LEER porsentaje2
+    ESCRIBIR"el promedio de la inversion de la segunda pesona es ",porsentaje2
 
-    ESCRIBIR"el promedio de la inversion de la tersera pesona es  es "
-    LEER porsentaje3
+    ESCRIBIR"el promedio de la inversion de la tersera pesona es ",porsentaje3
+    
 FIN
 ```
 2 Un alumno desea saber cuál será su promedio general en las tres materias más difíciles que cursa y cuál será el promedio que obtendrá en cada una de ellas. Estas materias se evalúan como se muestra a continuación:
