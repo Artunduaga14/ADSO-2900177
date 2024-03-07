@@ -107,7 +107,7 @@ FIN
       LEER Q3
       prQ= (Q1 + Q2 + Q3)/3
       EX3= exQ * 0.85
-      prG3= prM * 0.15
+      prG3= prQ * 0.15
       prF3= (EX3 + prG3)
 
       proT= (prF1 + prF2 + prF3)/3
