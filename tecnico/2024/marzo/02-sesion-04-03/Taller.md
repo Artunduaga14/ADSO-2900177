@@ -142,10 +142,39 @@ FIN
 ```
 4 Leer un real e imprimir si el número es mayor a 200 o no.
 ```
+ INICIO
+    Definir num como real 
+    num= 0.0
+
+    Escribir "Digite un número "
+    Leer num 
+
+    Si num > 200 entonces
+       Escribir "El número digitado es mayor a 200"
+    SiNO entonces
+       Escribir "El número digitado es menor a 200"
+    FinSi   
+ FIN 
+
 
 ```
 5 Leer un real e imprimir si el número está en el rango de 50 y 100.
 ```
+   
+ INICIO
+    Definir num como real 
+    num= 0.0
+
+    Escribir "Digite un número "
+    Leer num 
+
+    Si num >= 50 y num <= 100 entonces
+       Escribir "El número digitado se encuentra en el rango de 50-100"
+    SiNO entonces
+       Escribir "El número digitado no se encuentra en el rango de 50-100"
+    FinSi   
+ FIN 
+
 
 ```
     
