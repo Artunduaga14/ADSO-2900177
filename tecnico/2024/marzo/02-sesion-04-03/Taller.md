@@ -15,10 +15,10 @@ Inicio
     ESCRIBIR"Digite la primera inversión: "
     LEER inversion1
 
-    ESCRIBIR"Digite la primera inversión: "
+    ESCRIBIR"Digite la segunda inversión: "
     LEER inversion2
 
-    ESCRIBIR"Digite la primera inversión: "
+    ESCRIBIR"Digite la tersera inversión: "
     LEER inversion3
 
     total= inversion1 + inversion2 + inversion3
