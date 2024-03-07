@@ -135,7 +135,6 @@ INICIO
 
    si N > 0
         ESCRIBIR"Elnumero es positivo "
-     fin si
   sino
         ESCRIBIR"Elnumero es negativo "
      fin si
